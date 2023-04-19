@@ -1,7 +1,7 @@
 import logo from "../assets/logo.svg";
 
 const blogData = {
-  name: "Underreacted",
+  name: "Edwin`s React App",
   image: logo,
   about: "A blog about learning React",
   posts: [
