@@ -2,7 +2,7 @@ import logo from "../assets/logo.svg";
 
 const blogData = {
   name: "Edwin`s React App",
-  image: logo,
+  image: "logo512.png",
   about: "A blog about learning React",
   posts: [
     {
@@ -22,6 +22,7 @@ const blogData = {
     {
       id: 3,
       title: "Function vs Class Components",
+      date: "December 12, 2020",
       preview: "React, meet OOJS.",
       minutes: 47,
     },
